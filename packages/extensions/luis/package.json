@@ -9,11 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/runtime": "^7.1.5",
     "@types/jest": "^22.2.3",
     "babel-jest": "23.6.0",
     "jest": "^23.0.0"
   },
-  "dependencies": {
-    "@babel/runtime": "^7.1.5"
-  }
+  "dependencies": {}
 }
